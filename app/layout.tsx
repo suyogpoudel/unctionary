@@ -32,7 +32,7 @@ export default function RootLayout({
         <header>
           <Navbar />
         </header>
-        <main className="flex-1 flex justify-center items-center">
+        <main className="flex-1 flex justify-center items-center py-10 px-10">
           {children}
         </main>
         <Footer />
