@@ -4,7 +4,7 @@ import Link from "next/link";
 const Home = () => {
   return (
     <div className="flex flex-col justify-center items-center">
-      <div className="flex items-baseline text-center gap-2 mb-3 max-sm:flex-col max-sm:items-center">
+      <div className="flex items-baseline text-center gap-2 mb-3 max-sm:flex-col max-sm:gap-1 max-sm:items-center">
         <h1 className="text-2xl sm:text-3xl">Unctionary</h1>
         <p className="text-lg sm:text-xl text-muted-foreground">
           (Dictionary for Uncs)
