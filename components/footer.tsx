@@ -6,9 +6,9 @@ const Footer = () => {
       <p className="text-lg">&copy; Unctionary 2026</p>
 
       <p>
-        Powered by u/ValdimarTIO comment on{" "}
+        Powered by u/ValdimarTIO's comment on{" "}
         <Link
-          href="/"
+          href="https://www.reddit.com/r/NoStupidQuestions/comments/1cgk2l7/is_there_a_comprehensiveish_list_of_all_the/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-primary underline underline-offset-4"
